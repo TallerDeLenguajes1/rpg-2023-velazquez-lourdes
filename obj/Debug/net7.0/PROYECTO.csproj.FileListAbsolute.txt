@@ -1,0 +1,15 @@
+C:\TALLER1\PROYECTO\bin\Debug\net7.0\PROYECTO.exe
+C:\TALLER1\PROYECTO\bin\Debug\net7.0\PROYECTO.deps.json
+C:\TALLER1\PROYECTO\bin\Debug\net7.0\PROYECTO.runtimeconfig.json
+C:\TALLER1\PROYECTO\bin\Debug\net7.0\PROYECTO.dll
+C:\TALLER1\PROYECTO\bin\Debug\net7.0\PROYECTO.pdb
+C:\TALLER1\PROYECTO\obj\Debug\net7.0\PROYECTO.csproj.AssemblyReference.cache
+C:\TALLER1\PROYECTO\obj\Debug\net7.0\PROYECTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\TALLER1\PROYECTO\obj\Debug\net7.0\PROYECTO.AssemblyInfoInputs.cache
+C:\TALLER1\PROYECTO\obj\Debug\net7.0\PROYECTO.AssemblyInfo.cs
+C:\TALLER1\PROYECTO\obj\Debug\net7.0\PROYECTO.csproj.CoreCompileInputs.cache
+C:\TALLER1\PROYECTO\obj\Debug\net7.0\PROYECTO.dll
+C:\TALLER1\PROYECTO\obj\Debug\net7.0\refint\PROYECTO.dll
+C:\TALLER1\PROYECTO\obj\Debug\net7.0\PROYECTO.pdb
+C:\TALLER1\PROYECTO\obj\Debug\net7.0\PROYECTO.genruntimeconfig.cache
+C:\TALLER1\PROYECTO\obj\Debug\net7.0\ref\PROYECTO.dll
